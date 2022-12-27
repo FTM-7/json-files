@@ -129,5 +129,41 @@
     "lens": "3.6",
     "color": "",
     "zoom": ""
+  },
+  {
+    "serial": "DH-IPC-HFW2831S-S-S2",
+    "value": "DAHUA-8MP-30M-36MM-IP",
+    "price": 490,
+    "model": "دهوا",
+    "type": "شبكية IP",
+    "mega": "8",
+    "metter": "30",
+    "lens": "3.6",
+    "color": "",
+    "zoom": ""
+  },
+  {
+    "serial": "DH-IPC-HFW2831T-AS-S2",
+    "value": "DAHUA-8MP-80M-36MM-IP",
+    "price": 545,
+    "model": "دهوا",
+    "type": "شبكية IP",
+    "mega": "8",
+    "metter": "80",
+    "lens": "3.6",
+    "color": "",
+    "zoom": ""
+  },
+  {
+    "serial": "DH-IPC-HFW2831T-ZS-S2",
+    "value": "DAHUA-8MP-60M-27MM-IP-ZOOM",
+    "price": 920,
+    "model": "دهوا",
+    "type": "شبكية IP",
+    "mega": "8",
+    "metter": "60",
+    "lens": "2.7",
+    "color": "",
+    "zoom": "زوم"
   }
 ]

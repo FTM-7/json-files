@@ -46,5 +46,21 @@
     "type": "شبكي NVR",
     "mega": "2 ميقا",
     "port": "4 قنوات"
+  },
+  {
+    "serial": "DHI-NVR4108HS-8P-4KS2/L",
+    "value": "DAHUA-NVR-4K-8P",
+    "price": 745,
+    "type": "شبكي NVR",
+    "mega": "4K",
+    "port": "8 قنوات"
+  },
+  {
+    "serial": "DHI-NVR4216-16P-4KS2/L",
+    "value": "DAHUA-NVR-4K-16P",
+    "price": 1100,
+    "type": "شبكي NVR",
+    "mega": "4K",
+    "port": "16 قناة"
   }
 ]

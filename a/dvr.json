@@ -1,5 +1,6 @@
 [
   {
+    "serial": "XVR4104HS-I",
     "value": "DAHUA-XVR-2MP-4P",
     "price": 171,
     "type": "XVR",
@@ -7,6 +8,7 @@
     "port": "4 قنوات"
   },
   {
+    "serial": "DH-XVR5104HS-4KL-I3",
     "value": "DAHUA-XVR-4K-4P",
     "price": 275,
     "type": "XVR",
@@ -14,6 +16,7 @@
     "port": "4 قنوات"
   },
   {
+    "serial": "DH-XVR5108HS-4KL-I3",
     "value": "DAHUA-XVR-4K-8P",
     "price": 445,
     "type": "XVR",
@@ -21,6 +24,7 @@
     "port": "8 قنوات"
   },
   {
+    "serial": "DH-XVR5116H-4KL-I3",
     "value": "DAHUA-XVR-4K-16P",
     "price": 852,
     "type": "XVR",
@@ -28,6 +32,7 @@
     "port": "16 قناة"
   },
   {
+    "serial": "DHI-NVR4104HS-P-4KS2/L",
     "value": "DAHUA-NVR-4K-4P",
     "price": 359,
     "type": "شبكي NVR",
@@ -35,10 +40,27 @@
     "port": "4 قنوات"
   },
   {
+    "serial": "DHI-NVR1104HS-P-S3/H",
     "value": "DAHUA-NVR-2MP-4P",
     "price": 235,
     "type": "شبكي NVR",
     "mega": "2 ميقا",
     "port": "4 قنوات"
+  },
+  {
+    "serial": "DHI-NVR4108HS-8P-4KS2/L",
+    "value": "DAHUA-NVR-4K-8P",
+    "price": 496,
+    "type": "شبكي NVR",
+    "mega": "4K",
+    "port": "8 قنوات"
+  },
+  {
+    "serial": "DHI-NVR4216-16P-4KS2/L",
+    "value": "DAHUA-NVR-4K-16P",
+    "price": 737,
+    "type": "شبكي NVR",
+    "mega": "4K",
+    "port": "16 قناة"
   }
 ]
