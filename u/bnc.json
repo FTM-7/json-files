@@ -1,0 +1,162 @@
+[
+  {
+    "value": "2",
+    "price": 8,
+    "qty": "1"
+  },
+  {
+    "value": "4",
+    "price": 16,
+    "qty": "2"
+  },
+  {
+    "value": "6",
+    "price": 24,
+    "qty": "3"
+  },
+  {
+    "value": "8",
+    "price": 32,
+    "qty": "4"
+  },
+  {
+    "value": "10",
+    "price": 40,
+    "qty": "5"
+  },
+  {
+    "value": "12",
+    "price": 48,
+    "qty": "6"
+  },
+  {
+    "value": "14",
+    "price": 56,
+    "qty": "7"
+  },
+  {
+    "value": "16",
+    "price": 64,
+    "qty": "8"
+  },
+  {
+    "value": "18",
+    "price": 72,
+    "qty": "9"
+  },
+  {
+    "value": "20",
+    "price": 80,
+    "qty": "10"
+  },
+  {
+    "value": "22",
+    "price": 88,
+    "qty": "11"
+  },
+  {
+    "value": "24",
+    "price": 96,
+    "qty": "12"
+  },
+  {
+    "value": "26",
+    "price": 104,
+    "qty": "13"
+  },
+  {
+    "value": "28",
+    "price": 112,
+    "qty": "14"
+  },
+  {
+    "value": "30",
+    "price": 120,
+    "qty": "15"
+  },
+  {
+    "value": "32",
+    "price": 128,
+    "qty": "16"
+  },
+  {
+    "value": "34",
+    "price": 136,
+    "qty": "17"
+  },
+  {
+    "value": "36",
+    "price": 144,
+    "qty": "18"
+  },
+  {
+    "value": "38",
+    "price": 152,
+    "qty": "19"
+  },
+  {
+    "value": "40",
+    "price": 160,
+    "qty": "20"
+  },
+  {
+    "value": "42",
+    "price": 168,
+    "qty": "21"
+  },
+  {
+    "value": "44",
+    "price": 176,
+    "qty": "22"
+  },
+  {
+    "value": "46",
+    "price": 184,
+    "qty": "23"
+  },
+  {
+    "value": "48",
+    "price": 192,
+    "qty": "24"
+  },
+  {
+    "value": "50",
+    "price": 200,
+    "qty": "25"
+  },
+  {
+    "value": "52",
+    "price": 208,
+    "qty": "26"
+  },
+  {
+    "value": "54",
+    "price": 216,
+    "qty": "27"
+  },
+  {
+    "value": "56",
+    "price": 224,
+    "qty": "28"
+  },
+  {
+    "value": "58",
+    "price": 232,
+    "qty": "29"
+  },
+  {
+    "value": "60",
+    "price": 240,
+    "qty": "30"
+  },
+  {
+    "value": "62",
+    "price": 248,
+    "qty": "31"
+  },
+  {
+    "value": "64",
+    "price": 256,
+    "qty": "32"
+  }
+]

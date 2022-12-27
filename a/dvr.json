@@ -1,0 +1,44 @@
+[
+  {
+    "value": "DAHUA-XVR-2MP-4P",
+    "price": 171,
+    "type": "XVR",
+    "mega": "2 ميقا",
+    "port": "4 قنوات"
+  },
+  {
+    "value": "DAHUA-XVR-4K-4P",
+    "price": 275,
+    "type": "XVR",
+    "mega": "4K",
+    "port": "4 قنوات"
+  },
+  {
+    "value": "DAHUA-XVR-4K-8P",
+    "price": 445,
+    "type": "XVR",
+    "mega": "4K",
+    "port": "8 قنوات"
+  },
+  {
+    "value": "DAHUA-XVR-4K-16P",
+    "price": 852,
+    "type": "XVR",
+    "mega": "4K",
+    "port": "16 قناة"
+  },
+  {
+    "value": "DAHUA-NVR-4K-4P",
+    "price": 359,
+    "type": "شبكي NVR",
+    "mega": "4K",
+    "port": "4 قنوات"
+  },
+  {
+    "value": "DAHUA-NVR-2MP-4P",
+    "price": 235,
+    "type": "شبكي NVR",
+    "mega": "2 ميقا",
+    "port": "4 قنوات"
+  }
+]

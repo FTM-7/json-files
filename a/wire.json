@@ -1,0 +1,252 @@
+[
+  {
+    "value": "10",
+    "price": 6,
+    "size": "10"
+  },
+  {
+    "value": "20",
+    "price": 12,
+    "size": "20"
+  },
+  {
+    "value": "30",
+    "price": 18,
+    "size": "30"
+  },
+  {
+    "value": "40",
+    "price": 24,
+    "size": "40"
+  },
+  {
+    "value": "50",
+    "price": 30,
+    "size": "50"
+  },
+  {
+    "value": "60",
+    "price": 36,
+    "size": "60"
+  },
+  {
+    "value": "70",
+    "price": 42,
+    "size": "70"
+  },
+  {
+    "value": "80",
+    "price": 48,
+    "size": "80"
+  },
+  {
+    "value": "90",
+    "price": 54,
+    "size": "90"
+  },
+  {
+    "value": "100",
+    "price": 60,
+    "size": "100"
+  },
+  {
+    "value": "110",
+    "price": 66,
+    "size": "110"
+  },
+  {
+    "value": "120",
+    "price": 72,
+    "size": "120"
+  },
+  {
+    "value": "130",
+    "price": 78,
+    "size": "130"
+  },
+  {
+    "value": "140",
+    "price": 84,
+    "size": "140"
+  },
+  {
+    "value": "150",
+    "price": 90,
+    "size": "150"
+  },
+  {
+    "value": "160",
+    "price": 96,
+    "size": "160"
+  },
+  {
+    "value": "170",
+    "price": 102,
+    "size": "170"
+  },
+  {
+    "value": "180",
+    "price": 108,
+    "size": "180"
+  },
+  {
+    "value": "190",
+    "price": 114,
+    "size": "190"
+  },
+  {
+    "value": "200",
+    "price": 120,
+    "size": "200"
+  },
+  {
+    "value": "210",
+    "price": 126,
+    "size": "210"
+  },
+  {
+    "value": "220",
+    "price": 132,
+    "size": "220"
+  },
+  {
+    "value": "230",
+    "price": 138,
+    "size": "230"
+  },
+  {
+    "value": "240",
+    "price": 144,
+    "size": "240"
+  },
+  {
+    "value": "250",
+    "price": 150,
+    "size": "250"
+  },
+  {
+    "value": "260",
+    "price": 156,
+    "size": "260"
+  },
+  {
+    "value": "270",
+    "price": 162,
+    "size": "270"
+  },
+  {
+    "value": "280",
+    "price": 168,
+    "size": "280"
+  },
+  {
+    "value": "290",
+    "price": 174,
+    "size": "290"
+  },
+  {
+    "value": "300",
+    "price": 180,
+    "size": "300"
+  },
+  {
+    "value": "310",
+    "price": 186,
+    "size": "310"
+  },
+  {
+    "value": "320",
+    "price": 192,
+    "size": "320"
+  },
+  {
+    "value": "330",
+    "price": 198,
+    "size": "330"
+  },
+  {
+    "value": "340",
+    "price": 204,
+    "size": "340"
+  },
+  {
+    "value": "350",
+    "price": 210,
+    "size": "350"
+  },
+  {
+    "value": "360",
+    "price": 216,
+    "size": "360"
+  },
+  {
+    "value": "370",
+    "price": 222,
+    "size": "370"
+  },
+  {
+    "value": "380",
+    "price": 228,
+    "size": "380"
+  },
+  {
+    "value": "390",
+    "price": 234,
+    "size": "390"
+  },
+  {
+    "value": "400",
+    "price": 240,
+    "size": "400"
+  },
+  {
+    "value": "410",
+    "price": 246,
+    "size": "410"
+  },
+  {
+    "value": "420",
+    "price": 252,
+    "size": "420"
+  },
+  {
+    "value": "430",
+    "price": 258,
+    "size": "430"
+  },
+  {
+    "value": "440",
+    "price": 264,
+    "size": "440"
+  },
+  {
+    "value": "450",
+    "price": 270,
+    "size": "450"
+  },
+  {
+    "value": "460",
+    "price": 276,
+    "size": "460"
+  },
+  {
+    "value": "470",
+    "price": 282,
+    "size": "470"
+  },
+  {
+    "value": "480",
+    "price": 288,
+    "size": "480"
+  },
+  {
+    "value": "490",
+    "price": 294,
+    "size": "490"
+  },
+  {
+    "value": "500",
+    "price": 300,
+    "size": "500"
+  }
+]

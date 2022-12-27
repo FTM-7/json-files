@@ -1,0 +1,133 @@
+[
+  {
+    "serial": "B1A21",
+    "value": "DAHUA-2MP-20M-36MM-HD",
+    "price": 66,
+    "model": "دهوا",
+    "type": "HD",
+    "mega": "2",
+    "metter": "20",
+    "lens": "3.6",
+    "color": "",
+    "zoom": ""
+  },
+  {
+    "serial": "B1A51",
+    "value": "DAHUA-5MP-20M-36MM-HD",
+    "price": 110,
+    "model": "دهوا",
+    "type": "HD",
+    "mega": "5",
+    "metter": "20",
+    "lens": "3.6",
+    "color": "",
+    "zoom": ""
+  },
+  {
+    "serial": "HFW1500TH-I4",
+    "value": "DAHUA-5MP-40M-36MM-HD",
+    "price": 140,
+    "model": "دهوا",
+    "type": "HD",
+    "mega": "5",
+    "metter": "40",
+    "lens": "3.6",
+    "color": "",
+    "zoom": ""
+  },
+  {
+    "serial": "HFW1500R-Z-IRE6",
+    "value": "DAHUA-5MP-60M-27MM-HD-ZOOM",
+    "price": 295,
+    "model": "دهوا",
+    "type": "HD",
+    "mega": "5",
+    "metter": "60",
+    "lens": "2.7",
+    "color": "",
+    "zoom": "زوم"
+  },
+  {
+    "serial": "HFW1500TH-I8",
+    "value": "DAHUA-5MP-80M-06MM-HD",
+    "price": 160,
+    "model": "دهوا",
+    "type": "HD",
+    "mega": "5",
+    "metter": "80",
+    "lens": "6",
+    "color": "",
+    "zoom": ""
+  },
+  {
+    "serial": "HFW1509TLM-LED",
+    "value": "DAHUA-5MP-40M-36MM-HD-COLOR",
+    "price": 220,
+    "model": "دهوا",
+    "type": "HD",
+    "mega": "5",
+    "metter": "40",
+    "lens": "3.6",
+    "color": "تصوير ملون",
+    "zoom": ""
+  },
+  {
+    "serial": "HFW1800R",
+    "value": "DAHUA-8MP-30M-36MM-HD",
+    "price": 175,
+    "model": "دهوا",
+    "type": "HD",
+    "mega": "8",
+    "metter": "30",
+    "lens": "3.6",
+    "color": "",
+    "zoom": ""
+  },
+  {
+    "serial": "HFW1801TH-I4",
+    "value": "DAHUA-8MP-40M-36MM-HD",
+    "price": 220,
+    "model": "دهوا",
+    "type": "HD",
+    "mega": "8",
+    "metter": "40",
+    "lens": "3.6",
+    "color": "",
+    "zoom": ""
+  },
+  {
+    "serial": "HFW1801R-Z-IRE6",
+    "value": "DAHUA-8MP-60M-27MM-HD-ZOOM",
+    "price": 378,
+    "model": "دهوا",
+    "type": "HD",
+    "mega": "8",
+    "metter": "60",
+    "lens": "2.7",
+    "color": "",
+    "zoom": "زوم"
+  },
+  {
+    "serial": "HFW1800TL",
+    "value": "DAHUA-8MP-80M-06MM-HD",
+    "price": 195,
+    "model": "دهوا",
+    "type": "HD",
+    "mega": "8",
+    "metter": "80",
+    "lens": "6",
+    "color": ""
+  },
+  {
+    "serial": "HFW1530S-S6",
+    "value": "DAHUA-5MP-30M-36MM-IP",
+    "price": 295,
+    "model": "دهوا",
+    "type": "شبكية IP",
+    "mega": "5",
+    "metter": "30",
+    "lens": "3.6",
+    "color": "",
+    "zoom": ""
+  }
+]
