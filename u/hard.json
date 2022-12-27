@@ -1,36 +1,36 @@
 [
   { 
-    "value": "TOSHIBA-1TB", 
-    "price": 226, 
-    "size": "1" 
+    "value": "TOSHIBA-1TB",
+    "price": 190,
+    "size": "1"
   },
   { 
-    "value": "TOSHIBA-2TB", 
-    "price": 309, 
-    "size": "2" 
+    "value": "TOSHIBA-2TB",
+    "price": 260,
+    "size": "2"
   },
   { 
-    "value": "TOSHIBA-4TB", 
-    "price": 470, 
-    "size": "4" 
+    "value": "TOSHIBA-4TB",
+    "price": 430,
+    "size": "4"
   },
   { 
-    "value": "TOSHIBA-6TB", 
-    "price": 843, 
-    "size": "6" 
+    "value": "TOSHIBA-6TB",
+    "price": 765,
+    "size": "6"
   },
   { 
-    "value": "TOSHIBA-8TB", 
-    "price": 1218, 
-    "size": "8" 
+    "value": "TOSHIBA-8TB",
+    "price": 1100,
+    "size": "8"
   },
   { 
-    "value": "TOSHIBA-10TB", 
-    "price": 1965, 
+    "value": "TOSHIBA-10TB",
+    "price": 1750,
     "size": "10" },
   { 
-    "value": "TOSHIBA-12TB", 
-    "price": 2961, 
-    "size": "12" 
+    "value": "TOSHIBA-12TB",
+    "price": 2650,
+    "size": "12"
   }
 ]

@@ -2,7 +2,7 @@
   {
     "serial": "B1A21",
     "value": "DAHUA-2MP-20M-36MM-HD",
-    "price": 66,
+    "price": 55,
     "model": "دهوا",
     "type": "HD",
     "mega": "2",
@@ -14,7 +14,7 @@
   {
     "serial": "B1A51",
     "value": "DAHUA-5MP-20M-36MM-HD",
-    "price": 110,
+    "price": 90,
     "model": "دهوا",
     "type": "HD",
     "mega": "5",
@@ -26,7 +26,7 @@
   {
     "serial": "HFW1500TH-I4",
     "value": "DAHUA-5MP-40M-36MM-HD",
-    "price": 140,
+    "price": 118,
     "model": "دهوا",
     "type": "HD",
     "mega": "5",
@@ -38,7 +38,7 @@
   {
     "serial": "HFW1500R-Z-IRE6",
     "value": "DAHUA-5MP-60M-27MM-HD-ZOOM",
-    "price": 295,
+    "price": 246,
     "model": "دهوا",
     "type": "HD",
     "mega": "5",
@@ -50,7 +50,7 @@
   {
     "serial": "HFW1500TH-I8",
     "value": "DAHUA-5MP-80M-06MM-HD",
-    "price": 160,
+    "price": 130,
     "model": "دهوا",
     "type": "HD",
     "mega": "5",
@@ -62,7 +62,7 @@
   {
     "serial": "HFW1509TLM-LED",
     "value": "DAHUA-5MP-40M-36MM-HD-COLOR",
-    "price": 220,
+    "price": 185,
     "model": "دهوا",
     "type": "HD",
     "mega": "5",
@@ -74,7 +74,7 @@
   {
     "serial": "HFW1800R",
     "value": "DAHUA-8MP-30M-36MM-HD",
-    "price": 175,
+    "price": 145,
     "model": "دهوا",
     "type": "HD",
     "mega": "8",
@@ -86,7 +86,7 @@
   {
     "serial": "HFW1801TH-I4",
     "value": "DAHUA-8MP-40M-36MM-HD",
-    "price": 220,
+    "price": 185,
     "model": "دهوا",
     "type": "HD",
     "mega": "8",
@@ -98,7 +98,7 @@
   {
     "serial": "HFW1801R-Z-IRE6",
     "value": "DAHUA-8MP-60M-27MM-HD-ZOOM",
-    "price": 378,
+    "price": 315,
     "model": "دهوا",
     "type": "HD",
     "mega": "8",
@@ -110,7 +110,7 @@
   {
     "serial": "HFW1800TL",
     "value": "DAHUA-8MP-80M-06MM-HD",
-    "price": 195,
+    "price": 160,
     "model": "دهوا",
     "type": "HD",
     "mega": "8",
@@ -121,7 +121,7 @@
   {
     "serial": "HFW1530S-S6",
     "value": "DAHUA-5MP-30M-36MM-IP",
-    "price": 295,
+    "price": 250,
     "model": "دهوا",
     "type": "شبكية IP",
     "mega": "5",
@@ -133,7 +133,7 @@
   {
     "serial": "DH-IPC-HFW2831S-S-S2",
     "value": "DAHUA-8MP-30M-36MM-IP",
-    "price": 490,
+    "price": 400,
     "model": "دهوا",
     "type": "شبكية IP",
     "mega": "8",
@@ -145,7 +145,7 @@
   {
     "serial": "DH-IPC-HFW2831T-AS-S2",
     "value": "DAHUA-8MP-80M-36MM-IP",
-    "price": 545,
+    "price": 450,
     "model": "دهوا",
     "type": "شبكية IP",
     "mega": "8",
@@ -157,7 +157,7 @@
   {
     "serial": "DH-IPC-HFW2831T-ZS-S2",
     "value": "DAHUA-8MP-60M-27MM-IP-ZOOM",
-    "price": 920,
+    "price": 770,
     "model": "دهوا",
     "type": "شبكية IP",
     "mega": "8",
