@@ -1,0 +1,162 @@
+[
+  {
+    "value": "1c",
+    "price": 10,
+    "size": "1 صغيرة"
+  },
+  {
+    "value": "1c",
+    "price": 20,
+    "size": "1 كبيرة"
+  },
+  {
+    "value": "2s",
+    "price": 20,
+    "size": "2 صغيرة"
+  },
+  {
+    "value": "2c",
+    "price": 40,
+    "size": "2 كبيرة"
+  },
+  {
+    "value": "3s",
+    "price": 30,
+    "size": "3 صغيرة"
+  },
+  {
+    "value": "3c",
+    "price": 60,
+    "size": "3 كبيرة"
+  },
+  {
+    "value": "4s",
+    "price": 40,
+    "size": "4 صغيرة"
+  },
+  {
+    "value": "4c",
+    "price": 80,
+    "size": "4 كبيرة"
+  },
+  {
+    "value": "5s",
+    "price": 50,
+    "size": "5 صغيرة"
+  },
+  {
+    "value": "5c",
+    "price": 100,
+    "size": "5 كبيرة"
+  },
+  {
+    "value": "6s",
+    "price": 60,
+    "size": "6 صغيرة"
+  },
+  {
+    "value": "6c",
+    "price": 120,
+    "size": "6 كبيرة"
+  },
+  {
+    "value": "7s",
+    "price": 70,
+    "size": "7 صغيرة"
+  },
+  {
+    "value": "7c",
+    "price": 140,
+    "size": "7 كبيرة"
+  },
+  {
+    "value": "8s",
+    "price": 80,
+    "size": "8 صغيرة"
+  },
+  {
+    "value": "8c",
+    "price": 160,
+    "size": "8 كبيرة"
+  },
+  {
+    "value": "9s",
+    "price": 90,
+    "size": "9 صغيرة"
+  },
+  {
+    "value": "9c",
+    "price": 180,
+    "size": "9 كبيرة"
+  },
+  {
+    "value": "10s",
+    "price": 100,
+    "size": "10 صغيرة"
+  },
+  {
+    "value": "10c",
+    "price": 200,
+    "size": "10 كبيرة"
+  },
+  {
+    "value": "11s",
+    "price": 110,
+    "size": "11 صغيرة"
+  },
+  {
+    "value": "11c",
+    "price": 220,
+    "size": "11 كبيرة"
+  },
+  {
+    "value": "12s",
+    "price": 120,
+    "size": "12 صغيرة"
+  },
+  {
+    "value": "12c",
+    "price": 240,
+    "size": "12 كبيرة"
+  },
+  {
+    "value": "13s",
+    "price": 130,
+    "size": "13 صغيرة"
+  },
+  {
+    "value": "13c",
+    "price": 260,
+    "size": "13 كبيرة"
+  },
+  {
+    "value": "14s",
+    "price": 140,
+    "size": "14 صغيرة"
+  },
+  {
+    "value": "14c",
+    "price": 280,
+    "size": "14 كبيرة"
+  },
+  {
+    "value": "15s",
+    "price": 150,
+    "size": "15 صغيرة"
+  },
+  {
+    "value": "15c",
+    "price": 300,
+    "size": "15 كبيرة"
+  },
+  {
+    "value": "16s",
+    "price": 160,
+    "size": "16 صغيرة"
+  },
+  {
+    "value": "16c",
+    "price": 320,
+    "size": "16 كبيرة"
+  }
+]
