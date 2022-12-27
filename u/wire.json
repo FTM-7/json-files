@@ -1,252 +1,252 @@
 [
   {
     "value": "10",
-    "price": 15,
+    "price": 10,
     "size": "10"
   },
   {
     "value": "20",
-    "price": 30,
+    "price": 20,
     "size": "20"
   },
   {
     "value": "30",
-    "price": 45,
+    "price": 30,
     "size": "30"
   },
   {
     "value": "40",
-    "price": 60,
+    "price": 40,
     "size": "40"
   },
   {
     "value": "50",
-    "price": 75,
+    "price": 50,
     "size": "50"
   },
   {
     "value": "60",
-    "price": 90,
+    "price": 60,
     "size": "60"
   },
   {
     "value": "70",
-    "price": 105,
+    "price": 70,
     "size": "70"
   },
   {
     "value": "80",
-    "price": 120,
+    "price": 80,
     "size": "80"
   },
   {
     "value": "90",
-    "price": 135,
+    "price": 90,
     "size": "90"
   },
   {
     "value": "100",
-    "price": 150,
+    "price": 100,
     "size": "100"
   },
   {
     "value": "110",
-    "price": 165,
+    "price": 110,
     "size": "110"
   },
   {
     "value": "120",
-    "price": 180,
+    "price": 120,
     "size": "120"
   },
   {
     "value": "130",
-    "price": 195,
+    "price": 130,
     "size": "130"
   },
   {
     "value": "140",
-    "price": 210,
+    "price": 140,
     "size": "140"
   },
   {
     "value": "150",
-    "price": 225,
+    "price": 150,
     "size": "150"
   },
   {
     "value": "160",
-    "price": 240,
+    "price": 160,
     "size": "160"
   },
   {
     "value": "170",
-    "price": 255,
+    "price": 170,
     "size": "170"
   },
   {
     "value": "180",
-    "price": 270,
+    "price": 180,
     "size": "180"
   },
   {
     "value": "190",
-    "price": 285,
+    "price": 190,
     "size": "190"
   },
   {
     "value": "200",
-    "price": 300,
+    "price": 200,
     "size": "200"
   },
   {
     "value": "210",
-    "price": 315,
+    "price": 210,
     "size": "210"
   },
   {
     "value": "220",
-    "price": 330,
+    "price": 220,
     "size": "220"
   },
   {
     "value": "230",
-    "price": 345,
+    "price": 230,
     "size": "230"
   },
   {
     "value": "240",
-    "price": 360,
+    "price": 240,
     "size": "240"
   },
   {
     "value": "250",
-    "price": 375,
+    "price": 250,
     "size": "250"
   },
   {
     "value": "260",
-    "price": 390,
+    "price": 260,
     "size": "260"
   },
   {
     "value": "270",
-    "price": 405,
+    "price": 270,
     "size": "270"
   },
   {
     "value": "280",
-    "price": 420,
+    "price": 280,
     "size": "280"
   },
   {
     "value": "290",
-    "price": 435,
+    "price": 290,
     "size": "290"
   },
   {
     "value": "300",
-    "price": 450,
+    "price": 300,
     "size": "300"
   },
   {
     "value": "310",
-    "price": 465,
+    "price": 310,
     "size": "310"
   },
   {
     "value": "320",
-    "price": 480,
+    "price": 320,
     "size": "320"
   },
   {
     "value": "330",
-    "price": 495,
+    "price": 330,
     "size": "330"
   },
   {
     "value": "340",
-    "price": 510,
+    "price": 340,
     "size": "340"
   },
   {
     "value": "350",
-    "price": 525,
+    "price": 350,
     "size": "350"
   },
   {
     "value": "360",
-    "price": 540,
+    "price": 360,
     "size": "360"
   },
   {
     "value": "370",
-    "price": 555,
+    "price": 370,
     "size": "370"
   },
   {
     "value": "380",
-    "price": 570,
+    "price": 380,
     "size": "380"
   },
   {
     "value": "390",
-    "price": 585,
+    "price": 390,
     "size": "390"
   },
   {
     "value": "400",
-    "price": 600,
+    "price": 400,
     "size": "400"
   },
   {
     "value": "410",
-    "price": 615,
+    "price": 410,
     "size": "410"
   },
   {
     "value": "420",
-    "price": 630,
+    "price": 420,
     "size": "420"
   },
   {
     "value": "430",
-    "price": 645,
+    "price": 430,
     "size": "430"
   },
   {
     "value": "440",
-    "price": 660,
+    "price": 440,
     "size": "440"
   },
   {
     "value": "450",
-    "price": 675,
+    "price": 450,
     "size": "450"
   },
   {
     "value": "460",
-    "price": 690,
+    "price": 460,
     "size": "460"
   },
   {
     "value": "470",
-    "price": 705,
+    "price": 470,
     "size": "470"
   },
   {
     "value": "480",
-    "price": 720,
+    "price": 480,
     "size": "480"
   },
   {
     "value": "490",
-    "price": 735,
+    "price": 490,
     "size": "490"
   },
   {
     "value": "500",
-    "price": 750,
+    "price": 500,
     "size": "500"
   }
 ]
