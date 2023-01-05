@@ -16,6 +16,14 @@
     "port": "4 قنوات"
   },
   {
+    "serial": "DH-XVR5104HS-I3",
+    "value": "DAHUA-XVR-5M-4P",
+    "price": 182,
+    "type": "XVR",
+    "mega": "5MP",
+    "port": "4 قنوات"
+  },
+  {
     "serial": "DH-XVR5108HS-4KL-I3",
     "value": "DAHUA-XVR-4K-8P",
     "price": 445,
