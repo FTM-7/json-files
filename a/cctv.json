@@ -201,5 +201,53 @@
     "lens": "2.8 عدسة واسعة",
     "color": "",
     "zoom": ""
+  },
+  {
+    "serial": "DS-2CD1053G0-I",
+    "value": "HIKVISION-5MP-20M-28MM-IP",
+    "price": 197,
+    "model": "هيكفيجن",
+    "type": "شبكية IP",
+    "mega": "5",
+    "metter": "20",
+    "lens": "2.8 عدسة واسعة",
+    "color": "",
+    "zoom": ""
+  },
+  {
+    "serial": "DS-2CD1057G0-L",
+    "value": "HIKVISION-5MP-40M-28MM-IP",
+    "price": 281,
+    "model": "هيكفيجن",
+    "type": "شبكية IP",
+    "mega": "5",
+    "metter": "40",
+    "lens": "2.8 عدسة واسعة",
+    "color": "",
+    "zoom": ""
+  },
+  {
+    "serial": "DS-2CD2T83G2-2I",
+    "value": "HIKVISION-8MP-60M-28MM-IP",
+    "price": 363,
+    "model": "هيكفيجن",
+    "type": "شبكية IP",
+    "mega": "8",
+    "metter": "60",
+    "lens": "2.8 عدسة واسعة",
+    "color": "",
+    "zoom": ""
+  },
+  {
+    "serial": "DS-2CD2686G2-IZSU/SL",
+    "value": "HIKVISION-8MP-80M-28MM-IP-ZOOM",
+    "price": 923,
+    "model": "هيكفيجن",
+    "type": "شبكية IP",
+    "mega": "8",
+    "metter": "80",
+    "lens": "2.8 عدسة واسعة",
+    "color": "",
+    "zoom": ""
   }
 ]
