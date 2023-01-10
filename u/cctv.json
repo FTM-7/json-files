@@ -215,6 +215,18 @@
     "zoom": ""
   },
   {
+    "serial": "DS-2CE19U1T-IT3ZF",
+    "value": "HIKVISION-8MP-80M-27MM-HD-ZOOM",
+    "price": 313,
+    "model": "هيكفيجن",
+    "type": "HD",
+    "mega": "8",
+    "metter": "80",
+    "lens": "2.7 عدسة واسعة",
+    "color": "",
+    "zoom": ""
+  },
+  {
     "serial": "DS-2CD1053G0-I",
     "value": "HIKVISION-5MP-20M-28MM-IP",
     "price": 246,
