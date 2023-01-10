@@ -78,5 +78,13 @@
     "type": "DVR هيكفيجن",
     "mega": "5 ميقا",
     "port": "4 قنوات"
+  },
+  {
+    "serial": "DS-7604NI-K1",
+    "value": "HIKVISION-NVR-4K-4P",
+    "price": 342,
+    "type": "NVR شبكي هيكفيجن",
+    "mega": "4K",
+    "port": "4 قنوات"
   }
 ]
