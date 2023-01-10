@@ -70,5 +70,13 @@
     "type": "شبكي NVR",
     "mega": "4K",
     "port": "16 قناة"
+  },
+  {
+    "serial": "DS-7204HUHI-K1/E",
+    "value": "HIKVISION-DVR-5MP-4P",
+    "price": 261,
+    "type": "DVR",
+    "mega": "5 ميقا",
+    "port": "4 قنوات"
   }
 ]
