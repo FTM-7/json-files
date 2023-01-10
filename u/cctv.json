@@ -165,5 +165,41 @@
     "lens": "2.7",
     "color": "",
     "zoom": "زوم"
+  },
+  {
+    "serial": "DS-2CE16H0T-ITPF",
+    "value": "HIKVISION-5MP-20M-36MM-HD",
+    "price": 90,
+    "model": "هيكفيجن",
+    "type": "HD",
+    "mega": "5",
+    "metter": "20",
+    "lens": "3.6",
+    "color": "",
+    "zoom": ""
+  },
+  {
+    "serial": "DS-2CE16H0T-ITF",
+    "value": "HIKVISION-5MP-20M-28MM-HD",
+    "price": 98,
+    "model": "هيكفيجن",
+    "type": "HD",
+    "mega": "5",
+    "metter": "20",
+    "lens": "2.8 عدسة واسعة",
+    "color": "",
+    "zoom": ""
+  },
+  {
+    "serial": "DS-2CE17H0T-IT3F",
+    "value": "HIKVISION-5MP-40M-28MM-HD",
+    "price": 118,
+    "model": "هيكفيجن",
+    "type": "HD",
+    "mega": "5",
+    "metter": "40",
+    "lens": "2.8 عدسة واسعة",
+    "color": "",
+    "zoom": ""
   }
 ]
