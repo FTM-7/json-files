@@ -80,6 +80,14 @@
     "port": "4 قنوات"
   },
   {
+    "serial": "DS-7204HTHI-K1",
+    "value": "HIKVISION-DVR-4K-4P",
+    "price": 543,
+    "type": "DVR هيكفيجن",
+    "mega": "4K",
+    "port": "4 قنوات"
+  },
+  {
     "serial": "DS-7604NI-K1",
     "value": "HIKVISION-NVR-4K-4P",
     "price": 342,
