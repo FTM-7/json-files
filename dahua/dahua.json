@@ -1,18 +1,18 @@
 [
     {
-        "name": "DHI-NVR4108HS-8P-4KS2/L",
-        "img": "https://material.dahuasecurity.com/uploads/image/20230105/IPC-HFW2849T-AS-IL_1_thumb.png",
-        "mega": "5",
+        "name": "DH-HFW1209C-LED",
+        "img": "https://www.topcctv.co.za/wp-content/uploads/2020/01/DH-HAC-HFW1239TLMP-A-LED.jpg",
+        "mega": "2",
         "type": "HD",
         "zoom": "",
         "meter": "20",
-        "ptz": "متحركة",
+        "ptz": "",
         "color": "ملونه",
-        "lens": "2.8",
-        "audio": "صوت",
-        "fps": "25",
-        "channel": "4",
+        "lens": "3.6",
+        "audio": "",
+        "fps": "30",
+        "channel": "",
         "hdd": "",
-        "epoe": "ePoe"
+        "epoe": ""
     }
 ]
